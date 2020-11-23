@@ -1,5 +1,5 @@
 {
-    "name": "guszandy/laravel-tabler-bootstrap4",
+    "name": "bordesf/laravel-tabler-bootstrap4",
     "type": "package",
     "description": "Laravel Package for integrating Tabler template and this package is Laravel Mix friendly.",
     "keywords": ["laravel", "tabler", "package", "composer", "admin", "dashboard", "bootstrap 4"],
